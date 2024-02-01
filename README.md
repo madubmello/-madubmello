@@ -12,3 +12,5 @@ Tenho 19 anos e estou em busca de iniciar minha carreira profissional na área d
 🗣 Português, Inglês e Espanhol
 
 💻 Python
+
+💼 Pacote Office
