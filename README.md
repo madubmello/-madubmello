@@ -1,4 +1,4 @@
-# Maria Eduarda Bastos de Mello
+# Maria Eduarda Mello
 :books: Estudante do Bacharelado em Ciência e Tecnologia na Universidade Federal do ABC (UFABC)
 
 ## Sobre mim
